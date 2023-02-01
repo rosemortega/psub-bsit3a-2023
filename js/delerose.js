@@ -4,6 +4,6 @@ devs.push({
     middleName: 'Olleres',
     lastName  : 'Mortega',
     gender    : 'Female',
-    username  : 'mdelerose18@gmail.com'
+    username  : 'rosemortega'
 
 });
